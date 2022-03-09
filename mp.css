@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(203, 92%, 75%);
+}
+
+textarea {
+    width: 100%;
+}
+
+
+#preview {
+    background-color: white;
+    color: black;
+
+}
